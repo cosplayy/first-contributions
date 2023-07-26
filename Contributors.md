@@ -3,6 +3,7 @@
 
 <!-- prettier-ignore-start and welcome -->
 
+-   [arftd](https://github.com/arftd)
 -   [cosplayy](https://github.com/cosplayy)
 -   [Jason Bohlinger](https://github.com/jason-bohlinger)
 -   [Areeb Fazli](https://github.com/areebfazli)
